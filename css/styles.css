@@ -13,7 +13,14 @@ hr {
 .addcc{
   font-family:monospace;
 }
-
 .asdf{
   font-family:cursive;
+}
+.line{
+  border: none;
+  border-top-style:groove;
+  border-top-color: grey;
+  border-width: 5px;
+  height: 0px;
+  width:100%
 }
